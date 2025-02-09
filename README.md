@@ -14,7 +14,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repository.git
+git clone (https://github.com/SanketShinde23/list-management)
 cd your-repository
 Install dependencies:
 bash
@@ -35,7 +35,8 @@ The project follows a modular structure with reusable components for maintainabi
 /src/index.js – Entry point of the application.
 /src/styles.css – Contains all styling for the application.
 How It Works
-When the application starts, it fetches data from the provided API and populates List 1 with the received items. Users can move items from List 1 to List 2 and vice versa using arrow buttons placed between the lists. The changes are updated in real-time, making the interaction smooth and intuitive.
+When the application starts, it fetches data from the provided API and populates List 1 with the received items. 
+Users can move items from List 1 to List 2 and vice versa using arrow buttons placed between the lists. The changes are updated in real-time, making the interaction smooth and intuitive.
 
 Technologies Used
 React.js – Frontend library for building UI components.
